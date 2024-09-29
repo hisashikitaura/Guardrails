@@ -13,4 +13,8 @@
 2. Install the packages according to requirments.txt
     pip install -r requirements
 
-3. (Optional) Run code with interactive mode (IPython)
+3. Create a file named ".env" and write down variable OPENAI_API_KEY.
+   You get the key from openai.com.
+    OPENAI_API_KEY="xxxxx"
+
+4. (Optional) Run code with interactive mode (IPython)
